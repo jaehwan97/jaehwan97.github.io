@@ -1,4 +1,4 @@
-
+<div style="width:1000px;">
 
 # 기본 알고리즘 
 
@@ -496,7 +496,7 @@ static void triangleLB(int n) //왼쪽아래가 직각인 이등변삼각형을 
 ```
 
 
-
+</div>
 
 
 
